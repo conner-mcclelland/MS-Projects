@@ -1,8 +1,9 @@
 # MS-Projects
 Project 1: 'Design of a Dynamic Process Simulation for Modeling and Control of an Interacting Two-Tank System' (M.S. Thesis)
+
 Project 2: 'Solutions to Minimizing Dead Zone Effects in Flow-Through Catalytic Membrane Reactors Using Functionally Graded Porous Membranes'
 
-##############################################################
+###################################################################################################
 # Design of a Dynamic Process Simulation for Modeling and Control of an Interacting Two-Tank System
 This repository contains a standalone dynamic process simulation of an interacting two-tank system developed using MATLAB App Designer and Simulink.
 
@@ -21,3 +22,14 @@ Files:
 
 To access app:
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=conner-mcclelland/MS-Projects&file=DPS_HMI.mlapp)
+- Open MATLAB Online via the above button
+- Sign into MathWorks
+- Open 'DPS_HMI.mlapp' file in MATLAB Online
+- Click 'Run'
+
+##################################################################################################################################
+# Solutions to Minimizing Dead Zone Effects in Flow-Through Catalytic Membrane Reactors Using Functionally Graded Porous Membranes
+This repository contains a computational model of a flow-through catalytic membrane reactor under conditions of unsteady-state/non-isothermal/sequential rxns/power law kinetics with an incorporated porosity gradient. The code also includes an optimization of the porosity gradient to minimize dead zone effects within the membrane.
+
+Files:
+- 'FTCMR Model & Optimization.py'
